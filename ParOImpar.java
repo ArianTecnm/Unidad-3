@@ -13,6 +13,7 @@ public class ParOImpar {
     else { 
             System.out.println("El numero "+ numero + " es Impar");
             }
+        scanner.close();
     }
     
 }
