@@ -12,8 +12,8 @@ public class Fibonacci {
         Suma = Num1 + Num2;
         Num1 =  Num2;
         Num2 = Suma;
-        
-    }scanner.close();
+        scanner.close();
+    }
     }
     
 }
